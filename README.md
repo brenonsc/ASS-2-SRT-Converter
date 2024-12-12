@@ -1,7 +1,7 @@
 # ASS to SRT Converter
 
 This Colab Notebook provides a simple Python script to convert subtitles from the ASS format to the SRT format using the [pysubs2](https://pysubs2.readthedocs.io/en/latest/) library.
-<br>
+<br><br>
 
 ## Features
 
